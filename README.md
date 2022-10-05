@@ -12,5 +12,8 @@
 
 ## 📚 Books
 
-### 이미 읽은 책
-- [Clean Code | 클린 코드, 애자일 소프트웨어 장인 정신 - 로버트 C. 마틴](https://search.shopping.naver.com/book/catalog/32474195676) `🗓 2022-07-01 ~ 2022-08-31`
+### 다 읽은 책
+- [Clean Code 클린 코드 | 애자일 소프트웨어 장인 정신 - 로버트 C. 마틴](http://www.yes24.com/Product/Goods/11681152) `🗓 2022-07-01 ~ 2022-08-31`
+
+### 읽고 있는 책
+- [이펙티브 자바 Effective Java 3/E - 조슈아 블로크](http://www.yes24.com/Product/Goods/65551284) `🗓 2022-10-05 ~ ?`
