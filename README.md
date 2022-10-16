@@ -1,9 +1,10 @@
-<p align="center">
+<br>
+<div style="text-align: center;">
   <a href="https://github.com/lemphis/my-books-for-programmers">
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1552618235/books_kwrzd1.svg" alt="books" />
   </a>
-  <h1 align="center">🥕 개발 관련 서적 읽기</h1>
-</p>
+  <h1>🥕 개발 관련 서적 읽기</h1>
+</div>
 
 ✨ 읽은 개발 관련 서적을 정리하는 repository
 > 남의 책을 많이 읽어라.  
@@ -13,7 +14,9 @@
 ## 📚 Books
 
 ### 다 읽은 책
+
 - [Clean Code 클린 코드 | 애자일 소프트웨어 장인 정신 - 로버트 C. 마틴](http://www.yes24.com/Product/Goods/11681152) `🗓 2022-07-01 ~ 2022-08-31`
 
 ### 읽고 있는 책
+
 - [이펙티브 자바 Effective Java 3/E - 조슈아 블로크](http://www.yes24.com/Product/Goods/65551284) `🗓 2022-10-05 ~ ?`
