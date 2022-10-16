@@ -1,10 +1,10 @@
 <br>
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/lemphis/my-books-for-programmers">
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1552618235/books_kwrzd1.svg" alt="books" />
   </a>
-  <h1>🥕 개발 관련 서적 읽기</h1>
-</div>
+  <h1 align="center">🥕 개발 관련 서적 읽기</h1>
+</p>
 
 ✨ 읽은 개발 관련 서적을 정리하는 repository
 > 남의 책을 많이 읽어라.  
