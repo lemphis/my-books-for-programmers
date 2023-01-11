@@ -8,7 +8,7 @@ List<Object>에는 어떤 객체든 넣을 수 있지만 List<String>에는 문�
 자바는 한정적 와일드카드 타입이라는 특별한 매개변수화 타입을 지원한다.  
 매개변수화 타입 T가 생산자라면 <? extends T>를 사용하고, 소비자라면 <? super T>를 사용한다.
 
-- Iterable<E>: E의 Iterable
+- Iterable\<E>: E의 Iterable
 - Iterable<? extends E>: E의 하위 타입의 Iterable
 - Iterable<? super E>: E의 상위 타입의 Iterable
 
