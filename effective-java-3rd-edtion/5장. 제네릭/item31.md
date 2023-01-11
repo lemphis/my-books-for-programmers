@@ -1,16 +1,16 @@
 # 31. 한정적 와일드카드를 사용해 API 유연성을 높이라
 
-매개변수화 타입은 불공변(invariant)이다. 즉, 서로 다른 타입 Type1과 Type2가 있을 때 List<Type1>은 List<Type2>의 하위 타입도 상위 타입도 아니다.  
-직관적이지 않겠지만 List<String>은 List<Object>의 하위 타입이 아니라는 뜻인데, 곰곰이 따져보면 사실 이 쪽이 말이 된다.  
-List<Object>에는 어떤 객체든 넣을 수 있지만 List<String>에는 문자열만 넣을 수 있다.  
-즉, List<String>은 List<Object>가 하는 일을 제대로 수행하지 못하니 하위 타입이 될 수 없다. (리스코프 치환 원칙 위반)
+매개변수화 타입은 불공변(invariant)이다. 즉, 서로 다른 타입 Type1과 Type2가 있을 때 List\<Type1>은 List\<Type2>의 하위 타입도 상위 타입도 아니다.  
+직관적이지 않겠지만 List\<String>은 List\<Object>의 하위 타입이 아니라는 뜻인데, 곰곰이 따져보면 사실 이 쪽이 말이 된다.  
+List\<Object>에는 어떤 객체든 넣을 수 있지만 List\<String>에는 문자열만 넣을 수 있다.  
+즉, List\<String>은 List\<Object>가 하는 일을 제대로 수행하지 못하니 하위 타입이 될 수 없다. (리스코프 치환 원칙 위반)
 
 자바는 한정적 와일드카드 타입이라는 특별한 매개변수화 타입을 지원한다.  
-매개변수화 타입 T가 생산자라면 <? extends T>를 사용하고, 소비자라면 <? super T>를 사용한다.
+매개변수화 타입 T가 생산자라면 \<? extends T>를 사용하고, 소비자라면 \<? super T>를 사용한다.
 
 - Iterable\<E>: E의 Iterable
-- Iterable<? extends E>: E의 하위 타입의 Iterable
-- Iterable<? super E>: E의 상위 타입의 Iterable
+- Iterable\<? extends E>: E의 하위 타입의 Iterable
+- Iterable\<? super E>: E의 상위 타입의 Iterable
 
 유연성을 극대화하려면 원소의 생산자나 소비자용 입력 매개변수에 와일드카드 타입을 사용하라.  
 반환 타입에는 한정적 와일드카드를 쓰면 안 된다. 유연성을 높여주기는커녕 클라이언트 코드에서도 와일드카드 타입을 써야 하기 때문이다.  
