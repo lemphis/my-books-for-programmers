@@ -23,3 +23,4 @@
 
 - [`이펙티브 자바 Effective Java 3/E` - 조슈아 블로크](http://www.yes24.com/Product/Goods/65551284) `🗓 2022-10-05 ~ ?`
 - [`객체지향의 사실과 오해 | 역할, 책임, 협력 관점에서 본 객체지향` - 조영호](http://www.yes24.com/Product/Goods/18249021) `🗓 2023-01-23 ~ ?`
+- [`Real MySQL | 개발자와 DBA를 위한` - 이성욱](http://www.yes24.com/Product/Goods/6960931) `🗓 2023-02-08 ~ ?`
