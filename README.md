@@ -20,9 +20,9 @@
 - [`컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커` - 조훈, 심근우, 문성주](https://www.yes24.com/Product/Goods/102099414) `🗓 2022-12-10 ~ 2023-02-03`
 - [`이펙티브 자바 Effective Java 3/E` - 조슈아 블로크](https://www.yes24.com/Product/Goods/65551284) `🗓 2022-10-05 ~ 2023-03-21`
 - [`토비의 스프링 3.1 Vol. 1 스프링의 이해와 원리` - 이일민](https://www.yes24.com/Product/Goods/7516721) `🗓 2023-03-23 ~ 2023-08-09`
+- [`Real MySQL | 개발자와 DBA를 위한` - 이성욱](https://www.yes24.com/Product/Goods/6960931) `🗓 2023-02-26 ~ 2023-12-05`
 
 ### 읽고 있는 책
 
 - [`객체지향의 사실과 오해 | 역할, 책임, 협력 관점에서 본 객체지향` - 조영호](https://www.yes24.com/Product/Goods/18249021) `🗓 2023-01-23 ~ ?`
-- [`Real MySQL | 개발자와 DBA를 위한` - 이성욱](https://www.yes24.com/Product/Goods/6960931) `🗓 2023-02-26 ~ ?`
 - [`토비의 스프링 3.1 Vol. 2 스프링의 기술과 선택` - 이일민](https://www.yes24.com/Product/Goods/7516872) `🗓 2023-08-09 ~ ?`
