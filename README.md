@@ -21,9 +21,9 @@
 - [`이펙티브 자바 Effective Java 3/E` - 조슈아 블로크](https://www.yes24.com/Product/Goods/65551284) `🗓 2022-10-05 ~ 2023-03-21`
 - [`토비의 스프링 3.1 Vol. 1 스프링의 이해와 원리` - 이일민](https://www.yes24.com/Product/Goods/7516721) `🗓 2023-03-23 ~ 2023-08-09`
 - [`Real MySQL | 개발자와 DBA를 위한` - 이성욱](https://www.yes24.com/Product/Goods/6960931) `🗓 2023-02-26 ~ 2023-12-05`
+- [`도메인 주도 개발 시작하기 | DDD 핵심 개념 정리부터 구현까지` - 최범균](https://www.yes24.com/Product/Goods/108431347) `🗓 2023-12-24 ~ 2024-05-19`
 
 ### 읽고 있는 책
 
 - [`객체지향의 사실과 오해 | 역할, 책임, 협력 관점에서 본 객체지향` - 조영호](https://www.yes24.com/Product/Goods/18249021) `🗓 2023-01-23 ~ ?`
 - [`토비의 스프링 3.1 Vol. 2 스프링의 기술과 선택` - 이일민](https://www.yes24.com/Product/Goods/7516872) `🗓 2023-08-09 ~ ?`
-- [`도메인 주도 개발 시작하기 | DDD 핵심 개념 정리부터 구현까지` - 최범균](https://www.yes24.com/Product/Goods/108431347) `🗓 2023-12-24 ~ ?`
