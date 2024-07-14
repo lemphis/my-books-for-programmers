@@ -6,21 +6,21 @@
 
 - AS-IS
 
-    ```java
-    static boolean isRomanNumeral(String s) {
-        return s.matches("^(?=.)M*(C[MD]|D?C{0,3})" + "(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$");
-    }
-    ```
+  ```java
+  static boolean isRomanNumeral(String s) {
+      return s.matches("^(?=.)M*(C[MD]|D?C{0,3})" + "(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$");
+  }
+  ```
 
 - TO-BE
 
-    ```java
-    private static final Pattern ROMAN = Pattern.compile("^(?=.)M*(C[MD]|D?C{0,3})" + "(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$");
-    
-    static boolean isRomanNumeral(String s) {
-        return ROMAN.matcher(s).matches();
-    }
-    ```
+  ```java
+  private static final Pattern ROMAN = Pattern.compile("^(?=.)M*(C[MD]|D?C{0,3})" + "(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$");
+
+  static boolean isRomanNumeral(String s) {
+      return ROMAN.matcher(s).matches();
+  }
+  ```
 
 isRomanNumeral 메서드가 처음 호출될 때 필드를 초기화하는 지연 초기화(lazy initialization)로 불필요한 초기화를 없앨 수 있으나 권하지 않는다.  
 지연 초기화는 코드를 복잡하게 만드는데, 성능은 크게 개선되지 않을 때가 많다.
@@ -32,7 +32,7 @@ public static long sum() {
     Long sum = 0L; // boxed primitives
     for (long i = 0; i<= Integer.MAX_VALUE; i++)
 		sum += i; // jesus...
-        
+
     return sum;
 }
 ```

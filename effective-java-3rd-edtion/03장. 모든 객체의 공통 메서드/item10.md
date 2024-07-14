@@ -10,6 +10,7 @@ equals를 재정의하지 않아야 하는 상황
 equals를 재정의할 때 따라야 하는 규약
 
 > equals 메서드는 동치관계(equivalence relation)를 구현하며, 다음을 만족한다.
+>
 > - 반사성(reflexivity): null이 아닌 모든 참조 값 x에 대해 x.equals(x)는 true
 > - 대칭성(symmetry): null이 아닌 모든 참조 값 x, y에 대해 x.eqlaus(y)가 true면 y.equals(x)도 true
 > - 추이성(transitivity): null이 아닌 모든 참조 값 x, y, z에 대해 x.equals(y)가 true이고 y.equals(z)가 true이면 x.equals(z)도 true

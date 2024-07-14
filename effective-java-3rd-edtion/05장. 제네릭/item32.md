@@ -53,4 +53,4 @@ class Demo {
 
 아무런 문제가 없는 메서드이니 별다른 경고 없이 컴파일되지만 실행하면 ClassCastException을 던진다.
 pickTwo 메서드의 리턴 타입은 항상 Object[]이다. pickTwo에 어떤 타입의 객체를 넘기더라도 담을 수 있는 가장 구체적인 타입이기 때문이다.  
-pickTwo 메서드의 반환값을 attributes에 저장하기 위해 String[]으로 형변환하는 코드를 컴파일러가 자동 생성하는데, Object[]는 String[]의 하위 타입이 아니므로 이 형변환은 실패한다.  
+pickTwo 메서드의 반환값을 attributes에 저장하기 위해 String[]으로 형변환하는 코드를 컴파일러가 자동 생성하는데, Object[]는 String[]의 하위 타입이 아니므로 이 형변환은 실패한다.

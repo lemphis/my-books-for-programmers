@@ -9,11 +9,11 @@
 가변 클래스를 작성하려거든 다음 두 선택지 중 하나를 따르자.
 
 - 동기화를 전혀 하지 않고, 그 클래스를 동시에 사용해야 하는 클래스가 외부에서 알아서 동기화하게 함
-    - java.util이 사용한 방법
+  - java.util이 사용한 방법
 - 동기화를 내부에서 수행해 스레드 안전한 클래스로 만듦
-    - 단, 클라이언트가 외부에서 객체 전체에 락을 거는 것보다 동시성을 월등히 개선할 수 있을 때 사용
-    - java.util.concurrent가 사용한 방법
-    - 여러 기법을 통해 동시성을 높여줄 수 있음
-        - 락 분할(lock splitting)
-        - 락 스트라이핑(lock striping)
-        - 비차단 동시성 제어(nonblocking concurrency control)
+  - 단, 클라이언트가 외부에서 객체 전체에 락을 거는 것보다 동시성을 월등히 개선할 수 있을 때 사용
+  - java.util.concurrent가 사용한 방법
+  - 여러 기법을 통해 동시성을 높여줄 수 있음
+    - 락 분할(lock splitting)
+    - 락 스트라이핑(lock striping)
+    - 비차단 동시성 제어(nonblocking concurrency control)

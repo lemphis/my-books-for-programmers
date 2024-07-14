@@ -6,4 +6,4 @@
 톱레벨 클래스와 인터페이스에 부여 가능한 접근 수준은 `package-private`와 `public`이다.  
 패키지 외부에서 쓸 이유가 없다면 package-private로 선언하자.
 
-멤버(필드, 메서드, 중첩 클래스, 중첩 인터페이스)에 부여 가능한 접근 수준은 `private`, `package-private`, `protected`, `public`이다.  
+멤버(필드, 메서드, 중첩 클래스, 중첩 인터페이스)에 부여 가능한 접근 수준은 `private`, `package-private`, `protected`, `public`이다.
