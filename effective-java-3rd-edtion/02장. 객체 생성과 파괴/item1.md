@@ -26,6 +26,7 @@ class는 client에게 public constructor 대신 static factory method를 제공�
 4. 입력 매개변수에 따라 다른 클래스의 객체를 반환할 수 있다.
 
    - `EnumSet` 클래스의 경우 생성자 없이 static factory method만 제공하는데, 원소의 수에 따라 두 가지 하위 클래스 중 하나를 반환한다.
+
      ```java
      public static <E extends Enum<E>> EnumSet<E> noneOf(Class<E> elementType) {
        Enum<?>[] universe = getUniverse(elementType);
