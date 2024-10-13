@@ -1,0 +1,18 @@
+# CHAPTER 08 데이터 체계화
+
+- [8.1 필드 자체 캡슐화 Self Encapsulate Field](8.1.md)
+- [8.2 데이터 값을 객체로 전환 Replace Data Value with Object](8.2.md)
+- [8.3 값을 참조로 전환 Change Value to Reference](8.3.md)
+- [8.4 참조를 값으로 전환 Change Reference to Value](8.4.md)
+- [8.5 배열을 객체로 전환 Replace Array with Object](8.5.md)
+- [8.6 관측 데이터 복제 Duplicate Observed Data](8.6.md)
+- [8.7 클래스의 단방향 연결을 양방향으로 전환 Change Unidirectional Association to Bidirectional](8.7.md)
+- [8.8 클래스의 양방향 연결을 단방향으로 전환 Change Bidirectional Association to Unidirectional](8.8.md)
+- [8.9 마법 숫자를 기호 상수로 전환 Replace Magic Number with Symbolic Constant](8.9.md)
+- [8.10 필드 캡슐화 Encapsulate Field](8.10.md)
+- [8.11 컬렉션 캡슐화 Encapsulate Collection](8.11.md)
+- [8.12 레코드를 데이터 클래스로 전환 Replace Record with Data Class](8.12.md)
+- [8.13 분류 부호를 클래스로 전환 Replace Type Code with Class](8.13.md)
+- [8.14 분류 부호를 하위클래스로 전환 Replace Type Code with Subclasses](8.14.md)
+- [8.15 분류 부호를 상태/전략 패턴으로 전환 Replace Type Code with State/Strategy](8.15.md)
+- [8.16 하위클래스를 필드로 전환 Replace Subclass with Fields](8.16.md)

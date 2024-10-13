@@ -1,0 +1,17 @@
+# CHAPTER 10 메서드 호출 단순화
+
+- [10.1 메서드명 변경 Rename Method](10.1.md)
+- [10.2 매개변수 추가 Add Parameter](10.2.md)
+- [10.3 매개변수 제거 Remove Parameter](10.3.md)
+- [10.4 상태 변경 메서드와 값 반환 메서드를 분리 Separate Query from Modifier](10.4.md)
+- [10.5 메서드를 매개변수로 전환 Parameterize Method](10.5.md)
+- [10.6 매개변수를 메서드로 전환 Replace Parameter with Explicit Methods](10.6.md)
+- [10.7 객체를 통째로 전달 Preserve Whole Object](10.7.md)
+- [10.8 매개변수 세트를 메서드로 전환 Replace Parameter with Method](10.8.md)
+- [10.9 매개변수 세트를 객체로 전환 Introduce Parameter Object](10.9.md)
+- [10.10 쓰기 메서드 제거 Remove Setting Method](10.10.md)
+- [10.11 메서드 은폐 Hide Method](10.11.md)
+- [10.12 생성자를 팩토리 메서드로 전환 Replace Constructor with Factory Method](10.12.md)
+- [10.13 하향 타입 변환을 캡슐화 Encapsulate Downcast](10.13.md)
+- [10.14 에러 부호를 예외 통지로 교체 Replace Error Code with Exception](10.14.md)
+- [10.15 예외 처리를 테스트로 교체 Replace Exception with Test](10.15.md)
