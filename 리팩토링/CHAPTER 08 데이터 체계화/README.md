@@ -13,6 +13,6 @@
 - [8.11 컬렉션 캡슐화 Encapsulate Collection](8.11.md)
 - [8.12 레코드를 데이터 클래스로 전환 Replace Record with Data Class](8.12.md)
 - [8.13 분류 부호를 클래스로 전환 Replace Type Code with Class](8.13.md)
-- [8.14 분류 부호를 하위클래스로 전환 Replace Type Code with Subclasses](8.14.md)
+- [8.14 분류 부호를 하위 클래스로 전환 Replace Type Code with Subclasses](8.14.md)
 - [8.15 분류 부호를 상태/전략 패턴으로 전환 Replace Type Code with State/Strategy](8.15.md)
-- [8.16 하위클래스를 필드로 전환 Replace Subclass with Fields](8.16.md)
+- [8.16 하위 클래스를 필드로 전환 Replace Subclass with Fields](8.16.md)

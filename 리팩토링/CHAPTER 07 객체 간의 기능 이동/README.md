@@ -7,4 +7,4 @@
 - [7.5 대리 객체 은폐 Hide Delegate](7.5.md)
 - [7.6 과잉 중개 메서드 제거 Remove Middle Man](7.6.md)
 - [7.7 외래 클래스에 메서드 추가 Introduce Foreign Method](7.7.md)
-- [7.8 국소적 상속확장 클래스 사용 Introduce Local Extension](7.8.md)
+- [7.8 국소적 상속 확장 클래스 사용 Introduce Local Extension](7.8.md)
